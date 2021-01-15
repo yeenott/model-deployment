@@ -16,7 +16,7 @@ Please try the tutrial for beginners in the [Docker tutorial](https://github.com
 2. Make sure Flask is installed. 
 
 ```bash
-~$ ~$ pip install -U flask
+~$ pip install -U flask
 ```
 
 Please go through the [Flask tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/) if you are not already familiar with Flask.
