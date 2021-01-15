@@ -6,7 +6,7 @@ A NLP model deployment example from [medium](https://towardsdatascience.com/deve
 ## WML-deployment
 A RandomForestClassifier model was built and deployed on IBM Waston Machine Learning Service (WML)
 
-## Docker_Flask_Deployment
+## 5_Docker_Flask_Deployment
 1. Install the Docker Engine first. 
 * [Docker macOS install](https://docs.docker.com/docker-for-mac/install/)
 * [Docker Windows install](https://docs.docker.com/docker-for-windows/install/)
@@ -20,4 +20,3 @@ Please try the tutrial for beginners in the [Docker tutorial](https://github.com
 ```
 
 Please go through the [Flask tutorial](https://flask.palletsprojects.com/en/1.1.x/tutorial/) if you are not already familiar with Flask.
-3. 
